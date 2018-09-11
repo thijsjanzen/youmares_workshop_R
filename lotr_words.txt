@@ -1,0 +1,19 @@
+Movie	Race	Sex	Words
+Fellowship of the Ring	Elf	Female	1229
+Fellowship of the Ring	Hobbit	Female	14
+Fellowship of the Ring	Man	Female	0
+Fellowship of the Ring	Elf	Male	971
+Fellowship of the Ring	Hobbit	Male	3644
+Fellowship of the Ring	Man	Male	1995
+Two towers	Elf	Female	331
+Two towers	Hobbit	Female	0
+Two towers	Man	Female	401
+Two towers	Elf	Male	513
+Two towers	Hobbit	Male	2463
+Two towers	Man	Male	3589
+Return of the King	Elf	Female	183
+Return of the King	Hobbit	Female	2
+Return of the King	Man	Female	268
+Return of the King	Elf	Male	510
+Return of the King	Hobbit	Male	2673
+Return of the King	Man	Male	2459
