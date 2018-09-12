@@ -1,4 +1,4 @@
-# youmares_workshop_R
+# Workshop Data Science in R
 
 Presentation + workshop files for a workshop on:
 Data Science in R
